@@ -1,0 +1,17 @@
+Note: One cannot use a generative AI to respond to these questions.
+
+# Assume that below requirement is available in your solution
+1. The solution must be able to scan the container images before the container images are deployed in the runtime
+environment.
+
+Response:
+
+# Assume that below requirement will be available in your solution in 3-6 months time. It is on roadmap.
+2. The solution must be able to check for image tags and route the image to appropriate cluster for deployment.
+
+Response:
+
+# Assume that below functionality will not be covered by your product anytime soon. It is not on roadmap.
+3. The solution must be able to ingest image scan information from Cloud Solution Provider's (AWS) scanning tools.
+
+Response:
